@@ -31,7 +31,7 @@ npm start
 ```
 
 # 🎉 Features
-- {features}
+- Free HTTP, SOCKS4, SOCKS5 proxy scraper software with dozens of sources.
 
 # 🙋‍♂️ Want to contribute?
 Want to contribute? Great! All contributions are welcome, from code to documentation to graphics to design suggestions to bug reports.
