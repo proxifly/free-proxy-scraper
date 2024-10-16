@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://somiibo.com/platforms/{url}">
-    <img src="https://cdn.itwcreativeworks.com/assets/somiibo/images/logo/somiibo-brandmark-blue-x.svg" width="100px">
+  <a href="https://proxifly.dev/tools/proxy-scraper">
+    <img src="https://cdn.itwcreativeworks.com/assets/proxifly/images/logo/proxifly-brandmark-black-x.svg" width="100px">
   </a>
 </p>
 
@@ -12,15 +12,15 @@
   <img src="https://img.shields.io/github/contributors/itw-creative-works/node-powertools.svg">
   <br>
   <br>
-  <strong>{name}</strong> {description}
+  <strong>Free Proxy Scraper</strong> Free HTTP, SOCKS4, SOCKS5 proxy scraper software with dozens of sources.
 </p>
 
 # 💻 Installation
 ### Direct link
-[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://somiibo.com/download?download=windows)
-[![MacOS](https://img.shields.io/badge/-MacOS-lightblue.svg?style=for-the-badge&logo=apple)](https://somiibo.com/download?download=macos)
-[![Unix](https://img.shields.io/badge/-Linux/BSD-red.svg?style=for-the-badge&logo=linux)](https://somiibo.com/download?download=linux)
-[![All versions](https://img.shields.io/badge/-All_Versions-lightgrey.svg?style=for-the-badge)](https://somiibo.com/download?download=null)
+[![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://proxifly.dev/download?download=windows)
+[![MacOS](https://img.shields.io/badge/-MacOS-lightblue.svg?style=for-the-badge&logo=apple)](https://proxifly.dev/download?download=macos)
+[![Unix](https://img.shields.io/badge/-Linux/BSD-red.svg?style=for-the-badge&logo=linux)](https://proxifly.dev/download?download=linux)
+[![All versions](https://img.shields.io/badge/-All_Versions-lightgrey.svg?style=for-the-badge)](https://proxifly.dev/download?download=null)
 
 ### Command line
 Clone this repo then run the following commands:
@@ -36,4 +36,4 @@ npm start
 # 🙋‍♂️ Want to contribute?
 Want to contribute? Great! All contributions are welcome, from code to documentation to graphics to design suggestions to bug reports.
 
-[Join our Discord server](https://somiibo.com/discord) to participate
+[Join our Discord server](https://proxifly.dev/discord) to participate
