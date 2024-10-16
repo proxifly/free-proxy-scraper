@@ -15,7 +15,7 @@
   <strong>Free Proxy Scraper</strong> Free HTTP, SOCKS4, SOCKS5 proxy scraper software with dozens of sources.
 </p>
 
-# 🧪 Free Proxy Scrpaer
+# 🧪 Free Proxy Scraper
 ## 💻 Installation
 ### Direct link
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://proxifly.dev/download?download=windows)
