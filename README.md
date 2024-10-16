@@ -15,7 +15,8 @@
   <strong>Free Proxy Scraper</strong> Free HTTP, SOCKS4, SOCKS5 proxy scraper software with dozens of sources.
 </p>
 
-# 💻 Installation
+# 🧪 Free Proxy Scrpaer
+## 💻 Installation
 ### Direct link
 [![Windows](https://img.shields.io/badge/-Windows_x64-blue.svg?style=for-the-badge&logo=windows)](https://proxifly.dev/download?download=windows)
 [![MacOS](https://img.shields.io/badge/-MacOS-lightblue.svg?style=for-the-badge&logo=apple)](https://proxifly.dev/download?download=macos)
@@ -30,10 +31,10 @@ npm install
 npm start
 ```
 
-# 🎉 Features
+## 🎉 Features
 - Free HTTP, SOCKS4, SOCKS5 proxy scraper software with dozens of sources.
 
-# 🙋‍♂️ Want to contribute?
+## 🙋‍♂️ Want to contribute?
 Want to contribute? Great! All contributions are welcome, from code to documentation to graphics to design suggestions to bug reports.
 
 [Join our Discord server](https://proxifly.dev/discord) to participate
