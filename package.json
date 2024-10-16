@@ -1,7 +1,7 @@
 {
-  "name": "somiibo-downloader",
+  "name": "proxifly-downloader",
   "version": "1.0.0",
-  "description": "Download Somiibo, a free social media automation platform that organically grows your online presence and gets you more followers.",
+  "description": "Free HTTP, SOCKS4, SOCKS5 proxy scraper software with dozens of sources.",
   "main": "src/index.js",
   "scripts": {
     "start": "node -e \"require('app-downloader')()\"",
@@ -10,13 +10,13 @@
     "node": ">=18"
   },
   "downloads": {
-    "darwin": "https://github.com/somiibo/download-server/releases/download/installer/Somiibo.dmg",
-    "win32": "https://github.com/somiibo/download-server/releases/download/installer/Somiibo-Setup.exe",
-    "linux": "https://github.com/somiibo/download-server/releases/download/installer/Somiibo_amd64.deb"
+    "darwin": "https://github.com/proxifly/download-server/releases/download/installer/Proxifly.dmg",
+    "win32": "https://github.com/proxifly/download-server/releases/download/installer/Proxifly-Setup.exe",
+    "linux": "https://github.com/proxifly/download-server/releases/download/installer/Proxifly_amd64.deb"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/somiibo/download-server.git"
+    "url": "git+https://github.com/proxifly/download-server.git"
   },
   "keywords": [
     "management",
@@ -24,12 +24,12 @@
     "frontend",
     "productivity"
   ],
-  "author": "Somiibo",
+  "author": "Proxifly",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/somiibo/somiibo-microservice-template/issues"
+    "url": "https://proxifly.dev/contact"
   },
-  "homepage": "https://somiibo.com",
+  "homepage": "https://proxifly.dev",
   "dependencies": {
     "app-downloader": "^1.0.0"
   }
